@@ -44,6 +44,31 @@
 
    **Test Application**
 
+   ![](pics/app.png)
+
+## REQUIRMENTS
+[PYTHON](https://www.python.org/downloads/)
+
+[STREAMLIT](https://streamlit.io)
+
+## INSTALLATION
+
+[ZIP FILE](https://github.com/brprod8/Blockchain-using-Streamlit/archive/refs/heads/main.zip)
+
+[CLONE REPO](https://github.com/brprod8/Blockchain-using-Streamlit)
+
+## LICENSE
+
+**Open to Experiemnt**
+
+BY:Robert Smith
+
+Credit:UC BERKELEY
+
+Email : Roberts.track@yahoo.com
+
+
+
      
 
     
